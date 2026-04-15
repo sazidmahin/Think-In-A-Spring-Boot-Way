@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: Layered Architecture
+  profiles:
+    active: dev
